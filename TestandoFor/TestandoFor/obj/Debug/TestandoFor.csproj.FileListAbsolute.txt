@@ -1,0 +1,7 @@
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\bin\Debug\TestandoFor.exe.config
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\bin\Debug\TestandoFor.exe
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\bin\Debug\TestandoFor.pdb
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\obj\Debug\TestandoFor.csproj.AssemblyReference.cache
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\obj\Debug\TestandoFor.csproj.CoreCompileInputs.cache
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\obj\Debug\TestandoFor.exe
+C:\Users\heito\Desktop\Csharp\TestandoFor\TestandoFor\obj\Debug\TestandoFor.pdb
