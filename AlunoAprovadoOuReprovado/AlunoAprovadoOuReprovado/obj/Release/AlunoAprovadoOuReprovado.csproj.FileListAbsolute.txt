@@ -1,0 +1,7 @@
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Release\AlunoAprovadoOuReprovado.exe.config
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Release\AlunoAprovadoOuReprovado.exe
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\bin\Release\AlunoAprovadoOuReprovado.pdb
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Release\AlunoAprovadoOuReprovado.csproj.AssemblyReference.cache
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Release\AlunoAprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Release\AlunoAprovadoOuReprovado.exe
+C:\Users\heito\Desktop\Csharp\AlunoAprovadoOuReprovado\AlunoAprovadoOuReprovado\obj\Release\AlunoAprovadoOuReprovado.pdb
