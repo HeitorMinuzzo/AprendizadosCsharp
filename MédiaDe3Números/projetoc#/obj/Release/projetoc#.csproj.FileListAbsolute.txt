@@ -1,0 +1,7 @@
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\bin\Release\projetoc#.exe.config
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\bin\Release\projetoc#.exe
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\bin\Release\projetoc#.pdb
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\obj\Release\projetoc#.csproj.AssemblyReference.cache
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\obj\Release\projetoc#.csproj.CoreCompileInputs.cache
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\obj\Release\projetoc#.exe
+C:\Users\heito\Desktop\Csharp\projetoc#\projetoc#\obj\Release\projetoc#.pdb
