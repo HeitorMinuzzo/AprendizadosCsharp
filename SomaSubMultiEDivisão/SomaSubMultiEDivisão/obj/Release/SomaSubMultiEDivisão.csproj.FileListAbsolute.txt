@@ -1,0 +1,7 @@
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\bin\Release\SomaSubMultiEDivisão.exe.config
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\bin\Release\SomaSubMultiEDivisão.exe
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\bin\Release\SomaSubMultiEDivisão.pdb
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\obj\Release\SomaSubMultiEDivisão.csproj.AssemblyReference.cache
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\obj\Release\SomaSubMultiEDivisão.csproj.CoreCompileInputs.cache
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\obj\Release\SomaSubMultiEDivisão.exe
+C:\Users\heito\Desktop\Csharp\SomaSubMultiEDivisão\SomaSubMultiEDivisão\obj\Release\SomaSubMultiEDivisão.pdb
